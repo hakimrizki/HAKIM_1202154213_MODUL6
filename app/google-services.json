@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "160339518789",
+    "firebase_url": "https://hakim-1202154213-modul6.firebaseio.com",
+    "project_id": "hakim-1202154213-modul6",
+    "storage_bucket": "hakim-1202154213-modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160339518789:android:bba394a074a8e22e",
+        "android_client_info": {
+          "package_name": "id.hakimrizki.hakim_1202154213_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160339518789-2kco7jrllghh157nilvi2bkbbkqojbt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.hakimrizki.hakim_1202154213_modul6",
+            "certificate_hash": "c3ad7612c76c50fb6cede3b38d33a9af9678df73"
+          }
+        },
+        {
+          "client_id": "160339518789-hm9r7ob8mq6nmabv17kiv7i2unrcsbrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqK3ImebQwdDtFRu-yRx4EE5c3DOHyDX8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160339518789-hm9r7ob8mq6nmabv17kiv7i2unrcsbrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
