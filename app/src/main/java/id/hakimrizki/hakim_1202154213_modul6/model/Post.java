@@ -15,7 +15,7 @@ public class Post {
     public Post() {
     }
 
-    public Post(String id, String userID, String username, String titlePost, String post, String imagePost) {
+    public Post(String id, String userID, String username, String imagePost, String titlePost, String post) {
         this.id = id;
         this.userID = userID;
         this.username = username;
